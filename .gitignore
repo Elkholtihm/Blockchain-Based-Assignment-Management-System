@@ -1,0 +1,52 @@
+# Geth specific
+*.db
+*.db-journal
+keystore/
+nodekey
+node.json
+geth.ipc
+geth.sock
+
+# Node data
+chaindata/
+lightchaindata/
+dapp/
+nodes/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build
+build/
+dist/
+
+# Environment
+.env
+.env.local
+*.pem
+*.key
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+backups/
+venv/
+infos.txt
