@@ -50,3 +50,4 @@ temp/
 backups/
 venv/
 infos.txt
+test.py
