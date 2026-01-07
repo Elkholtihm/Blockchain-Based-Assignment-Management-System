@@ -420,3 +420,8 @@ Complete project documentation available in:
 ## License
 
 This project is developed for educational purposes as part of the Blockchain Fundamentals course at ENSA.
+
+## Demo
+**Video demonstration:** Check out the full demo video below:
+[![Demo Video](https://img.youtube.com/vi/OiRwx7YEIao/maxresdefault.jpg)](https://youtu.be/OiRwx7YEIao)
+*Click the image above to watch the 1-minute demo on YouTube*
